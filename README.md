@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Zhiqiang Li
+- 👀 I’m interested in Full Dive VR, human computer interfaces, and robotics.
+- 🌱 I’m currently learning computer science
+- 💞️ I’m looking to collaborate on research regarding VR and Robotics.
+- 📫 Reach me: Email: 
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I also like to play tennis.
